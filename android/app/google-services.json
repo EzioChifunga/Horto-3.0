@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541135003096",
+    "project_id": "hortodb-7b474",
+    "storage_bucket": "hortodb-7b474.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541135003096:android:50f60476e7b12eca4aa6ad",
+        "android_client_info": {
+          "package_name": "com.mycompany.horto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGkALQQHDKjC7_clSo1JXWSIoUjaZaB7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
